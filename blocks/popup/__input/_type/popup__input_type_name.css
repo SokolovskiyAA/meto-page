@@ -1,0 +1,10 @@
+.popup__input_type_name {
+    margin-top: 54px;
+    transition: .2s;
+}
+
+@media screen and (max-width: 450px) {
+    .popup__input_type_name {
+        margin-top: 75px;
+    }
+}

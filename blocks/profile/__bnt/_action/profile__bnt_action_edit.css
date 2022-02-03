@@ -1,0 +1,13 @@
+.profile__bnt_action_edit {
+    width: 24px;
+    height: 24px;
+    border: 1px solid #FFFFFF;
+    background-image: url(../../../../images/Edit_Button.svg);
+}
+
+@media screen and (max-width: 740px) {
+    .profile__bnt_action_edit {
+        width: 18px;
+        height: 18px;
+    }
+}

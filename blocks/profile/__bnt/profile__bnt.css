@@ -1,0 +1,13 @@
+.profile__bnt {
+    background-color: #000;
+    box-sizing: border-box;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-self: center;
+    transition: 0.2s linear;
+}
+    
+.profile__bnt:hover {
+    cursor: pointer;
+    opacity: 0.6;
+}
